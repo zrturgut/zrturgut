@@ -49,16 +49,7 @@
 
 <br>
 
-<h2>📊 GitHub Analytics</h2>
 
-<details>
-<summary><b>Click to expand</b></summary>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zrturgut&show_icons=true&theme=radical&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zrturgut&layout=compact&theme=radical&hide_border=true" height="180" />
-</div>
-</details>
 
 <br>
 
