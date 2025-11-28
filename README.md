@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Zekeriyya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/zr-turgut">
+  <a href="https://www.linkedin.com/in/zrturgut/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:z.r.turgut@student.vu.nl">
@@ -21,10 +21,9 @@
         🔭 I’m focusing on <b>Data Engineering, Machine Learning, and Applied AI</b><br>
         💡 I enjoy turning ideas into practical solutions and value <b>honesty, curiosity, and collaboration</b><br>
         👯 I’m looking to collaborate on <b>Open Source projects</b><br>
-        📫 How to reach me: <b>z.r.turgut@student.vu.nl</b>
       </td>
       <td valign="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" />
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot Animation" width="300" />
       </td>
     </tr>
   </table>
@@ -49,7 +48,16 @@
 
 <br>
 
+<h2>📊 GitHub Analytics</h2>
 
+<details>
+<summary><b>Click to expand</b></summary>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zrturgut&show_icons=true&theme=radical&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zrturgut&layout=compact&theme=radical&hide_border=true" height="180" />
+</div>
+</details>
 
 <br>
 
